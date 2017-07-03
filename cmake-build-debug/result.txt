@@ -1,0 +1,22 @@
+Average delay for 10 requests is 0.38667 seconds
+Average delay for 10 requests is 0.329008 seconds
+request #0 delay 503.471 ms sent 0.0236593 sec after start
+request #1 delay 270.657 ms sent 0.0473327 sec after start
+request #2 delay 362.237 ms sent 0.071013 sec after start
+request #3 delay 517.059 ms sent 0.0945299 sec after start
+request #4 delay 270.857 ms sent 0.118108 sec after start
+request #5 delay 335.547 ms sent 0.141506 sec after start
+request #6 delay 371.833 ms sent 0.165068 sec after start
+request #7 delay 431.595 ms sent 0.188416 sec after start
+request #8 delay 312.601 ms sent 0.21189 sec after start
+request #9 delay 490.848 ms sent 0.235638 sec after start
+request #10 delay 305.117 ms sent 1.02325 sec after start
+request #11 delay 390.525 ms sent 1.04651 sec after start
+request #12 delay 270.734 ms sent 1.07003 sec after start
+request #13 delay 227.085 ms sent 1.09347 sec after start
+request #14 delay 257.599 ms sent 1.11681 sec after start
+request #15 delay 327.418 ms sent 1.1403 sec after start
+request #16 delay 278.795 ms sent 1.16377 sec after start
+request #17 delay 469.604 ms sent 1.18729 sec after start
+request #18 delay 474.85 ms sent 1.21058 sec after start
+request #19 delay 288.351 ms sent 1.23475 sec after start

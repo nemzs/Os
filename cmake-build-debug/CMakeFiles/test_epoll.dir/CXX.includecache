@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/CLionProjects/test_epoll/main.cpp
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+sys/epoll.h
+-
+arpa/inet.h
+-
+array
+-
+iostream
+-
+vector
+-
+unistd.h
+-
+fcntl.h
+-
+thread
+-
+thread
+-
+set
+-
+map
+-
+cmath
+-
+fstream
+-
+

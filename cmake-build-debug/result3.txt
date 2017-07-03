@@ -1,0 +1,110 @@
+Average delay for 10 requests is 0.406279 seconds
+Average delay for 10 requests is 0.383663 seconds
+Average delay for 10 requests is 0.395399 seconds
+Average delay for 10 requests is 0.300975 seconds
+Average delay for 10 requests is 0.428361 seconds
+Average delay for 10 requests is 0.369598 seconds
+Average delay for 10 requests is 0.328557 seconds
+Average delay for 10 requests is 0.388358 seconds
+Average delay for 10 requests is 0.406588 seconds
+Average delay for 10 requests is 0.351236 seconds
+request #0 delay 474.863 ms sent 0.0240105 sec after start
+request #1 delay 524.956 ms sent 0.0473063 sec after start
+request #2 delay 479.67 ms sent 0.0706883 sec after start
+request #3 delay 310.166 ms sent 0.0941207 sec after start
+request #4 delay 450.491 ms sent 0.11762 sec after start
+request #5 delay 227.057 ms sent 0.141044 sec after start
+request #6 delay 493.915 ms sent 0.164578 sec after start
+request #7 delay 481.96 ms sent 0.187943 sec after start
+request #8 delay 304.187 ms sent 0.211173 sec after start
+request #9 delay 315.526 ms sent 0.234444 sec after start
+request #10 delay 493.539 ms sent 1.02349 sec after start
+request #11 delay 403.043 ms sent 1.04698 sec after start
+request #12 delay 445.497 ms sent 1.07028 sec after start
+request #13 delay 505.277 ms sent 1.09392 sec after start
+request #14 delay 256.823 ms sent 1.11723 sec after start
+request #15 delay 226.604 ms sent 1.14042 sec after start
+request #16 delay 260.193 ms sent 1.16383 sec after start
+request #17 delay 518.327 ms sent 1.18718 sec after start
+request #18 delay 417.175 ms sent 1.2107 sec after start
+request #19 delay 310.15 ms sent 1.23407 sec after start
+request #20 delay 228.855 ms sent 2.02341 sec after start
+request #21 delay 415.421 ms sent 2.04674 sec after start
+request #22 delay 370.576 ms sent 2.07014 sec after start
+request #23 delay 502.486 ms sent 2.09362 sec after start
+request #24 delay 447.885 ms sent 2.11736 sec after start
+request #25 delay 407.004 ms sent 2.14059 sec after start
+request #26 delay 480.977 ms sent 2.1639 sec after start
+request #27 delay 329.601 ms sent 2.18713 sec after start
+request #28 delay 333.317 ms sent 2.21077 sec after start
+request #29 delay 437.868 ms sent 2.23414 sec after start
+request #30 delay 368.881 ms sent 3.02337 sec after start
+request #31 delay 409.007 ms sent 3.04646 sec after start
+request #32 delay 237.713 ms sent 3.06972 sec after start
+request #33 delay 234.1 ms sent 3.09307 sec after start
+request #34 delay 258.047 ms sent 3.11678 sec after start
+request #35 delay 239.402 ms sent 3.14019 sec after start
+request #36 delay 227.661 ms sent 3.16426 sec after start
+request #37 delay 240.609 ms sent 3.18982 sec after start
+request #38 delay 304.44 ms sent 3.21356 sec after start
+request #39 delay 489.894 ms sent 3.23755 sec after start
+request #40 delay 517.913 ms sent 4.02419 sec after start
+request #41 delay 384.786 ms sent 4.04849 sec after start
+request #42 delay 439.686 ms sent 4.07169 sec after start
+request #43 delay 260.663 ms sent 4.09525 sec after start
+request #44 delay 487.964 ms sent 4.11918 sec after start
+request #45 delay 513.609 ms sent 4.14266 sec after start
+request #46 delay 483.775 ms sent 4.1659 sec after start
+request #47 delay 381.998 ms sent 4.18948 sec after start
+request #48 delay 335.515 ms sent 4.213 sec after start
+request #49 delay 477.696 ms sent 4.23713 sec after start
+request #50 delay 299.404 ms sent 5.0238 sec after start
+request #51 delay 446.079 ms sent 5.04754 sec after start
+request #52 delay 406.303 ms sent 5.07078 sec after start
+request #53 delay 258.497 ms sent 5.09427 sec after start
+request #54 delay 481.568 ms sent 5.11765 sec after start
+request #55 delay 431.233 ms sent 5.14095 sec after start
+request #56 delay 367.939 ms sent 5.17298 sec after start
+request #57 delay 412.696 ms sent 5.19627 sec after start
+request #58 delay 338.619 ms sent 5.21968 sec after start
+request #59 delay 253.646 ms sent 5.2433 sec after start
+request #60 delay 322.591 ms sent 6.02364 sec after start
+request #61 delay 386.068 ms sent 6.04734 sec after start
+request #62 delay 370.421 ms sent 6.07061 sec after start
+request #63 delay 234.962 ms sent 6.09408 sec after start
+request #64 delay 285.057 ms sent 6.11746 sec after start
+request #65 delay 263.679 ms sent 6.14067 sec after start
+request #66 delay 304.919 ms sent 6.16444 sec after start
+request #67 delay 455.641 ms sent 6.18779 sec after start
+request #68 delay 339.368 ms sent 6.21143 sec after start
+request #69 delay 322.862 ms sent 6.23487 sec after start
+request #70 delay 482.753 ms sent 7.02335 sec after start
+request #71 delay 290.493 ms sent 7.04683 sec after start
+request #72 delay 458.418 ms sent 7.07026 sec after start
+request #73 delay 354.506 ms sent 7.09383 sec after start
+request #74 delay 403.901 ms sent 7.11707 sec after start
+request #75 delay 431.082 ms sent 7.14047 sec after start
+request #76 delay 233.602 ms sent 7.16404 sec after start
+request #77 delay 367.351 ms sent 7.18765 sec after start
+request #78 delay 396.637 ms sent 7.21224 sec after start
+request #79 delay 464.835 ms sent 7.2355 sec after start
+request #80 delay 418.015 ms sent 8.02339 sec after start
+request #81 delay 228.087 ms sent 8.04668 sec after start
+request #82 delay 362.863 ms sent 8.06991 sec after start
+request #83 delay 315.568 ms sent 8.09329 sec after start
+request #84 delay 524.665 ms sent 8.11678 sec after start
+request #85 delay 413.099 ms sent 8.14027 sec after start
+request #86 delay 522.979 ms sent 8.1634 sec after start
+request #87 delay 457.514 ms sent 8.18747 sec after start
+request #88 delay 419.718 ms sent 8.21137 sec after start
+request #89 delay 403.37 ms sent 8.23471 sec after start
+request #90 delay 451.931 ms sent 9.02342 sec after start
+request #91 delay 374.973 ms sent 9.04679 sec after start
+request #92 delay 255.44 ms sent 9.07028 sec after start
+request #93 delay 301.894 ms sent 9.09376 sec after start
+request #94 delay 373.49 ms sent 9.11724 sec after start
+request #95 delay 459.361 ms sent 9.14084 sec after start
+request #96 delay 375.073 ms sent 9.16431 sec after start
+request #97 delay 429.526 ms sent 9.18807 sec after start
+request #98 delay 250.814 ms sent 9.21146 sec after start
+request #99 delay 239.856 ms sent 9.23487 sec after start
